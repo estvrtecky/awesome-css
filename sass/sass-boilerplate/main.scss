@@ -2,22 +2,22 @@
 
 // 1. Abstracts
 @import
-  'abstracts/_variables',
-  'abstracts/_functions',
-  'abstracts/_mixins',
-  'abstracts/_placeholders';
+  'abstracts/variables',
+  'abstracts/functions',
+  'abstracts/mixins',
+  'abstracts/placeholders';
 
 // 2. Vendors
 
 // 3. Base
 @import
-  'base/_reset',
-  'base/_typography',
-  'base/_base';
+  'base/reset',
+  'base/typography',
+  'base/base';
 
 // 4. Layout
 @import
-  'layout/_grid';
+  'layout/grid';
 
 // 5. Components
 
