@@ -17,9 +17,12 @@
 
 // 4. Layout
 @import
-  'layout/grid';
+  'layout/grid',
+  'layout/navigation';
 
 // 5. Components
+@import
+  'components/button';
 
 // 6. Page-specific styles
 
